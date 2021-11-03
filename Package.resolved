@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MaskedFormatter",
+        "repositoryURL": "https://github.com/Columbina/MaskedFormatter.git",
+        "state": {
+          "branch": null,
+          "revision": "69a74e913c78f7d14d36c00dc49d9ddd76711293",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
